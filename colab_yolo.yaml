@@ -1,0 +1,8 @@
+path: '/content'
+train: train 
+val: valid 
+test: test
+
+# Classes
+nc: 2
+names: ["fork", "spoon"]
